@@ -1,1 +1,1 @@
-var in
+var index = require("./index.js")
